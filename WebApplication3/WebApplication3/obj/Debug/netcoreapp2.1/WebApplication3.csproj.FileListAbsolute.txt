@@ -1,0 +1,14 @@
+E:\Jagadeesan\Api\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.deps.json
+E:\Jagadeesan\Api\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.json
+E:\Jagadeesan\Api\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.dev.json
+E:\Jagadeesan\Api\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.dll
+E:\Jagadeesan\Api\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csprojAssemblyReference.cache
+E:\Jagadeesan\Api\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csproj.CoreCompileInputs.cache
+E:\Jagadeesan\Api\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cache
+E:\Jagadeesan\Api\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cs
+E:\Jagadeesan\Api\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfoInputs.cache
+E:\Jagadeesan\Api\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfo.cs
+E:\Jagadeesan\Api\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorTargetAssemblyInfo.cache
+E:\Jagadeesan\Api\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.pdb
+E:\Jagadeesan\Api\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.dll
+E:\Jagadeesan\Api\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.pdb

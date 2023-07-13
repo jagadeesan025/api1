@@ -1,0 +1,14 @@
+E:\Jagadeesan\Api\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.1\WebApplication4.deps.json
+E:\Jagadeesan\Api\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.1\WebApplication4.runtimeconfig.json
+E:\Jagadeesan\Api\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.1\WebApplication4.runtimeconfig.dev.json
+E:\Jagadeesan\Api\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.1\WebApplication4.dll
+E:\Jagadeesan\Api\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.1\WebApplication4.pdb
+E:\Jagadeesan\Api\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.csprojAssemblyReference.cache
+E:\Jagadeesan\Api\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.csproj.CoreCompileInputs.cache
+E:\Jagadeesan\Api\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.RazorAssemblyInfo.cache
+E:\Jagadeesan\Api\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.RazorAssemblyInfo.cs
+E:\Jagadeesan\Api\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.AssemblyInfoInputs.cache
+E:\Jagadeesan\Api\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.AssemblyInfo.cs
+E:\Jagadeesan\Api\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.RazorTargetAssemblyInfo.cache
+E:\Jagadeesan\Api\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.dll
+E:\Jagadeesan\Api\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.1\WebApplication4.pdb
